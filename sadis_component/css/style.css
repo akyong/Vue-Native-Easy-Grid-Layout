@@ -1,0 +1,23 @@
+.header-white{
+    color: #00ADE7;
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+  
+.text-color-primary {
+    color: blue;
+}
+
+.transparant-btn{
+    color:#00ADE7;
+}
+
+.text-merah {
+    color: #f00;
+}
